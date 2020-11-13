@@ -39,8 +39,8 @@
             "production": {
               "fileReplacements": [
                 {
-                  "replace": "projects/admin/src/environments/environment.ts",
-                  "with": "projects/admin/src/environments/environment.prod.ts"
+                  "replace": "projects/environments/environment.ts",
+                  "with": "projects/environments/environment.prod.ts"
                 }
               ],
               "optimization": true,
@@ -166,8 +166,8 @@
             "production": {
               "fileReplacements": [
                 {
-                  "replace": "projects/client/src/environments/environment.ts",
-                  "with": "projects/client/src/environments/environment.prod.ts"
+                  "replace": "projects/environments/environment.ts",
+                  "with": "projects/environments/environment.prod.ts"
                 }
               ],
               "optimization": true,
