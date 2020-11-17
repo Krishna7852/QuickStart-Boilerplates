@@ -28,3 +28,15 @@ This repository includes all modern framework QuickStart Boilerplates to speed u
 - [Loadash](https://lodash.com/)
 
 Checkout to see [**Angular multiple portal Boilerplate**<br/>](https://github.com/Krishna7852/QuickStart-Boilerplates/tree/boilerplate-1)
+
+
+> _Boilerplate - 1: Angular multiple portal App_
+
+#### Techstack/ Libraries:
+
+- [React Js with Typescript](https://create-react-app.dev/docs/adding-typescript)
+- [React-Redux](https://redux.js.org/)
+- [Redux-saga](https://redux-saga.js.org/)
+- [React-Router](https://reactrouter.com/web/guides/quick-start)
+
+Checkout to see [**React with Typescript Boilerplate**<br/>](https://github.com/Krishna7852/QuickStart-Boilerplates/tree/boilerplate-2)
