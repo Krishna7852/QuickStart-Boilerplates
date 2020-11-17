@@ -22,9 +22,9 @@ This repository includes all modern framework QuickStart Boilerplates to speed u
 
 #### Techstack/ Libraries:
 
-- Angular 10
-- Ngrx/store
-- Tailwindcss
-- loadash
+- [Angular 10](https://angular.io/)
+- [Ngrx/store](https://ngrx.io/guide/store)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Loadash](https://lodash.com/)
 
 Checkout to see [**Angular multiple portal Boilerplate**<br/>](https://github.com/Krishna7852/QuickStart-Boilerplates/tree/boilerplate-1)
