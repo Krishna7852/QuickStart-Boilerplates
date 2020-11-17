@@ -29,8 +29,8 @@ This repository includes all modern framework QuickStart Boilerplates to speed u
 
 Checkout to see [**Angular multiple portal Boilerplate**<br/>](https://github.com/Krishna7852/QuickStart-Boilerplates/tree/boilerplate-1)
 
-
-> _Boilerplate - 1: Angular multiple portal App_
+---------------------------------------------------------------------------------
+> _Boilerplate - 2: React With Typescript_
 
 #### Techstack/ Libraries:
 
